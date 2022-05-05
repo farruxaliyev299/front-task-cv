@@ -8,6 +8,7 @@ body{
     margin-top: 50px;
     margin-left: 50px;
     margin-right: 90px;
+    margin-bottom: 50px;
 }
 
 .header{
@@ -70,6 +71,7 @@ body{
 
 .inline-header-1{
     display: inline-block;
+    margin-top: 10px;
 }
 
 .inline-header-2{
@@ -130,20 +132,46 @@ body{
     margin-top: 5px;
 }
 
-.sub-header-4{
+.sub-header-5{
     margin-top: 10px;
     font-weight: bold;
 }
 
-.sub-header-4-strong{
+.sub-header-5-strong{
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 150px;
 }
 
-.sub-header-4-light{
+.sub-header-5-light{
     display: inline-block;
+    font-weight: 100;
 }
 
-.sub-header-4-inline{
+.sub-header-5-inline{
     display: inline-block;
+    margin-top: 10px;
+}
+
+.sub-context-5{
+    margin-left: 190px;
+}
+
+.sub-context-5-strong{
+    display: inline-block;
+    font-weight: bold;
+}
+
+.sub-context-5-light{
+    display: inline-block;
+    font-weight: 100;
+}
+
+.sub-header-6{
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.lists-4{
+    margin-top: 10px;
+    margin-left: 224px;
 }
